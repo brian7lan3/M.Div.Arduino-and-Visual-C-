@@ -1,0 +1,20 @@
+C:\Users\DK\source\repos\LightApp\LightApp\bin\Debug\LightApp.exe.config
+C:\Users\DK\source\repos\LightApp\LightApp\bin\Debug\LightApp.exe
+C:\Users\DK\source\repos\LightApp\LightApp\bin\Debug\LightApp.pdb
+C:\Users\DK\source\repos\LightApp\LightApp\obj\Debug\LightApp.csprojAssemblyReference.cache
+C:\Users\DK\source\repos\LightApp\LightApp\obj\Debug\LightApp.Form1.resources
+C:\Users\DK\source\repos\LightApp\LightApp\obj\Debug\LightApp.Properties.Resources.resources
+C:\Users\DK\source\repos\LightApp\LightApp\obj\Debug\LightApp.csproj.GenerateResource.cache
+C:\Users\DK\source\repos\LightApp\LightApp\obj\Debug\LightApp.csproj.CoreCompileInputs.cache
+C:\Users\DK\source\repos\LightApp\LightApp\obj\Debug\LightApp.exe
+C:\Users\DK\source\repos\LightApp\LightApp\obj\Debug\LightApp.pdb
+D:\Code\M.Div.Arduino-and-Visual-C-\Arduino and Visual C# - ReceiveShowSave Data in Windows Forms Application\LightApp\LightApp\obj\Debug\LightApp.csprojAssemblyReference.cache
+D:\Code\M.Div.Arduino-and-Visual-C-\Arduino and Visual C# - ReceiveShowSave Data in Windows Forms Application\LightApp\LightApp\obj\Debug\LightApp.Form1.resources
+D:\Code\M.Div.Arduino-and-Visual-C-\Arduino and Visual C# - ReceiveShowSave Data in Windows Forms Application\LightApp\LightApp\obj\Debug\LightApp.Properties.Resources.resources
+D:\Code\M.Div.Arduino-and-Visual-C-\Arduino and Visual C# - ReceiveShowSave Data in Windows Forms Application\LightApp\LightApp\obj\Debug\LightApp.csproj.GenerateResource.cache
+D:\Code\M.Div.Arduino-and-Visual-C-\Arduino and Visual C# - ReceiveShowSave Data in Windows Forms Application\LightApp\LightApp\obj\Debug\LightApp.csproj.CoreCompileInputs.cache
+D:\Code\M.Div.Arduino-and-Visual-C-\Arduino and Visual C# - ReceiveShowSave Data in Windows Forms Application\LightApp\LightApp\obj\Debug\LightApp.exe
+D:\Code\M.Div.Arduino-and-Visual-C-\Arduino and Visual C# - ReceiveShowSave Data in Windows Forms Application\LightApp\LightApp\obj\Debug\LightApp.pdb
+D:\Code\M.Div.Arduino-and-Visual-C-\Arduino and Visual C# - ReceiveShowSave Data in Windows Forms Application\LightApp\LightApp\bin\Debug\LightApp.exe.config
+D:\Code\M.Div.Arduino-and-Visual-C-\Arduino and Visual C# - ReceiveShowSave Data in Windows Forms Application\LightApp\LightApp\bin\Debug\LightApp.exe
+D:\Code\M.Div.Arduino-and-Visual-C-\Arduino and Visual C# - ReceiveShowSave Data in Windows Forms Application\LightApp\LightApp\bin\Debug\LightApp.pdb
